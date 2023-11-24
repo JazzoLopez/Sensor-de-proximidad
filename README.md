@@ -1,3 +1,2 @@
 # Sensor-de-proximidad
-Aplicación movil que utiliza el sensor de proximidad del celular para cambiar de color la pantalla, si esta cerca el cojor sera verde y si esta lejos el color sera rojo, la distancia maxima es de 5 cm
-
+Mobile application that uses the cell phone's proximity sensor to change the color of the screen, if it is close the color will be green and if it is far away the color will be red, the maximum distance is 5 cm
